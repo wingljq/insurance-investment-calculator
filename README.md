@@ -1,1 +1,1 @@
-# insurance-investment-calculator
+# Wing
